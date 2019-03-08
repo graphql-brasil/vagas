@@ -30,6 +30,10 @@ listas onde você poderá postar sua vaga:
 - [Vagas para desenvolvedores Frontend](https://github.com/frontendbr/vagas)
 
 
+### Então sua empresa é brasileira e usa GraphQL?!
+
+Neste caso, seria bem interessante você abrir um pull-request neste repositório: [Empresas que usam GraphQL no Brasil](https://github.com/graphql-brasil/empresas-que-usam-graphql-no-brasil). Esta é uma forma alternativa de ser encontrado por pessoas que querem trabalhar com GraphQL ou tecnologias do mesmo ecosistema.
+
 ## Licença
 
 [MIT]
