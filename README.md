@@ -1,3 +1,20 @@
+<div align="center">
+  <img  width="350" height="350" src="https://avatars2.githubusercontent.com/u/48294218?s=500&v=4" width="350" alt="GraphQL Brasil">
+	<br>
+	<br>
+	<p>
+		<a href="https://graphqlconf.com.br/#/">
+			<b>graphqlconf.com.br</b>
+		</a>
+	</p>
+	<br>
+</div>
+<p align="center">
+	<sub><i>Também confira nossos outros projetos</i></sub>
+  <br/>
+	<a href="https://github.com/graphql-brasil/empresas-que-usam-graphql-no-brasil">Empresas que usam GraphQL no Brasil</a>&nbsp;&nbsp;&nbsp;
+</p>
+<br/>
 # Vagas (Relacionadas com GraphQL)
 
 Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
